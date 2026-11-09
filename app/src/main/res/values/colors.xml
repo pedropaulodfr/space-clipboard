@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="space_background">#060C17</color>
+    <color name="space_surface">#0B1526</color>
+    <color name="space_cyan">#22D3EE</color>
+    <color name="space_icon_background">#071321</color>
+</resources>

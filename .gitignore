@@ -1,0 +1,17 @@
+.gradle/
+build/
+app/build/
+.kotlin/
+.idea/
+*.iml
+local.properties
+keystore.properties
+*.jks
+*.keystore
+captures/
+dist/
+build-*.log
+docs/*.mp4
+docs/*.xml
+docs/*.json
+docs/*.txt

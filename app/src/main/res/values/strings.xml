@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Space Clipboard</string>
+    <string name="share_target_label">Space Clipboard</string>
+    <string name="channel_share">Compartilhar com Space Clipboard</string>
+    <string name="camera_permission_title">Permitir acesso à câmera?</string>
+    <string name="camera_permission_message">A câmera é usada somente para ler o QR Code de pareamento. O Space Clipboard não grava nem envia imagens.</string>
+    <string name="permission_grant">Permitir câmera</string>
+    <string name="permission_deny">Agora não</string>
+</resources>
